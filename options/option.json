@@ -1,10 +1,10 @@
 {
-    "botName": "BOT_NAME",
-    "ownerName": "OWNER_NAME",
+    "botName": "my_waifuku",
+    "ownerName": "afx",
     "BarBarKey": "YOUR_APIKEY",
-    "ownerNumbers": "628885xxxxxx@s.whatsapp.net",
+    "ownerNumbers": "6285156013481@s.whatsapp.net",
     "languages": "ind",
     "botPrefix": ".",
     "memberLimitss": "25",
-    "userDefaultLimit": "30"
+    "userDefaultLimit": "100"
 }
